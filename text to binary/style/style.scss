@@ -6,7 +6,6 @@
     
 
 }
-// @import url(./fonts.css);
 
 .grid-container {
     display: grid;
@@ -17,7 +16,6 @@
     grid-template-rows: 1fr 6fr 1fr;
     grid-gap: 1em;
     height: 100vh;
-    // width: 100vw;
     grid-column-start: 1;
     grid-column-end: 25;
    
@@ -109,11 +107,6 @@ a {
             outline: none;
             resize: none
         }
-        
-        // textarea::placeholder {
-        //         padding: 0.em;
-        //     }
-        
     }
         
     button {
